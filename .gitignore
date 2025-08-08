@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+env/
+CovidRag/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+qna_history.json
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Node.js dependencies
+node_modules/

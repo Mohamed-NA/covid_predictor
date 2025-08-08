@@ -5,6 +5,23 @@ pydantic
 
 # Data science and ML
 pandas
-scikit-learn
+scikit-learn==1.6.1
 
 # Add any other packages you need below
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+biopython
+python-dotenv
+streamlit
+altair
+
+# OpenAI
+openai
+langchain_openai
+
+# frontend
+streamlit
